@@ -10,7 +10,6 @@
 #include <string>
 using namespace std;
 
-////////////////////////////
 //Q1——选最后一个
 #define GRADE_hd 80
 #define GRADE_max 100
